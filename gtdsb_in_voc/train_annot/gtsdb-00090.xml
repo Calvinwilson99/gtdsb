@@ -1,0 +1,1 @@
+<annotations><filename>gtsdb-00090.jpg</filename><folder>images</folder><size><width>816</width><height>480</height><depth>3</depth></size><object><name>STOP</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>579.6</xmin><ymin>256.80000000000007</ymin><xmax>604.1999999999999</xmax><ymax>278.4</ymax></bndbox></object></annotations>
